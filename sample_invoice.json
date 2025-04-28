@@ -1,0 +1,48 @@
+{
+    "company_name": "Ad4tech Material LLC",
+    "company_address": "67h, Martin street",
+    "company_city": "Alexander road",
+    "company_zip": "576832",
+    "company_phone": "1234567890",
+    "company_email": "ad4example@gmail.com",
+    
+    "client_name": "Green1 Materials LLC",
+    "client_address": "#34, Car street",
+    "client_city": "City park",
+    "client_country": "Hong Kong",
+    
+    "invoice_no": "INV-005",
+    "invoice_date": "Jun 22, 2021",
+    "due_date": "Jun 27, 2021",
+    
+    "items": [
+      {
+        "no": 1,
+        "description": "Desktop furniture",
+        "quantity": 1,
+        "rate": 232.00,
+        "amount": 232.00
+      },
+      {
+        "no": 2,
+        "description": "Plumbing and electrical services",
+        "quantity": 2,
+        "rate": 514.00,
+        "amount": 1028.00
+      },
+      {
+        "no": 3,
+        "description": "Water tank repair works",
+        "quantity": 2,
+        "rate": 152.00,
+        "amount": 304.00
+      }
+    ],
+    
+    "subtotal": 1564.00,
+    "total": 1564.00,
+    "paid_amount": 232.00,
+    "balance_due": 1332.00,
+    "paid_date": "Jun 22, 2021",
+    "payment_instructions": "Pay Cheque to\nJohn Doe"
+  }
